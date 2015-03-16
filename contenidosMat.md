@@ -20,7 +20,6 @@
         - Resolución de problemas que implican la iteración de un proceso de adición o sustracción.
         - Uso de la calculadora para reconstruir el resto de una división.
         - Utilización de las relaciones c x d + r = D y r < d para resolver problemas.
-        - 
     - Divisibilidad:
         - Números primos y compuestos.
         - Descomposición multiplicativa de un número.
