@@ -116,5 +116,23 @@
 
 ## Medida
 - Longitud, capacidad, peso y tiempo
-    -  
-
+    -  Profundización de las equivalencias entre las diferentes unidades de medida de longitud, las de capacidad y las de peso.
+    -  Múltiplos y submúltiplos del litro, el metro y el gramo.
+    -  Identificación de las equivalencias entre distintas unidades de tiempo.
+    -  Comparación entre la organización del SIMELA y del sistema sexagesimal.
+-  Perímetro, área y volumen
+    - Análisis de la variación del perímetro y del área de un rectángulo en función de la medida de sus lados.
+    - Resolución de problemas que exijan establecer relaciones entre diversas unidades de medida para expresar la medida del área de una figura.
+    - Elaboración colectiva de fórmulas del área del rectángulo, el cuadrado, el triángulo y el rombo.
+    - Utilización de fracciones para expresar la relación entre dos superficies.
+    - Utilización de las propiedades de las figuras para comparar áreas.
+    - Utilización de la multiplicación de fracciones para calcular el área de unafigura que no puede ser embaldosada un número exacto de veces con una unidad dada.
+    - Resolución de problemas que impliquen la medición de figuras usando como unidad el cm 2 y el m 2 .
+    - Resolución de situaciones que permitan profundización en el estudio del sistema métrico decimal: algunos múltiplos y sumbmúltiplos del m 2.
+    - Estimación de la medida de diferentes superficies seleccionando la unidad de medida más adecuada.
+    - Análisis de la información presenta da en medios diversos sobre grandes extensiones utilizando ha y km 2 como unidades de medida.
+    - Exploración de la variación del área de una figura en función de la medida de sus lados, bases o alturas.
+    - Análisis en términos de proporcionalidad de la relación entre la variación de los lados de un rectángulo y de la variación del área.
+    - Resolución de problemas que impliquen el cálculo del área de polígonos, trapecios y romboides por medio de descomposiciones en cuadrados, rectángulos y triángulos.
+    - Aproximación del área de polígonos irregulares y de figuras curvilíneas utilizando cuadrículas u otros procedimientos.
+    - Área del círculo y de figuras circulares.
