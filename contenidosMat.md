@@ -73,5 +73,37 @@
         - Estimación de cálculos con decimales.
 - Relaciones entre variables
     - Relaciones de proporcionalidad directa entre variables
+        - Resolución de problemas de proporcionalidad directa conociendo un par de números que se relacionan.
+        - Resolución de problemas que relacionan magnitudes a través de una ley que no es de proporcionalidad directa. Confrontación con las situaciones de proporcionalidad directa.
+    - Relaciones de proporcionalidad directa con números fraccionarios
+        - Resolución de problemas que involucren magnitudes de la misma naturaleza: escalas, porcentajes, mezclas para formar un compuesto, conversión entre monedas de diferentes países.
+        - Resolución de problemas que involucren magnitudes de diferente naturaleza
+        - Cambio de unidades en una situación de proporcionalidad directa.
+        - Resolución de situaciones en la que se da el correspondiente de un valor que no es la unidad.
+        - Utilización de diferentes estrategias para resolver los problemas: uso de la constante de proporcionalidad y de las propiedades.
+        - Análisis de la economía de la estrategia elegida en función de los datos disponibles.
+        - Representación cartesiana de una situación de proporcionalidad directa.
+        - Comparación entre diferentes situaciones de proporcionalidad a través de la comparación de las constantes y de los gráficos cartesianos.
+        - Análisis de las condiciones para que una relación sea de proporcionalidad directa.
+        - Confrontación con situaciones que no son de proporcionalidad directa.
+    - Relaciones de proporcionalidad inversa
+        - Resolución de problemas que ponen en juego relaciones de proporcionalidad inversa.
+        - Análisis de las condiciones para que una situación sea de proporcionalidad inversa.
+        - Análisis del dominio de variación de las variables.
+        - Situaciones que involucran varias relaciones de proporcionalidad directa e inversa.
         - 
+    - Estadística 
+        - Resolución de problemas que exijan interpretar y buscar información organizada en tablas de frecuencias, cuadros de doble entrada o diagramas de barras.
+        - Interpretación de la información dada por tablas que aparecen en los medios de comunicación.
+        - Comparación de situaciones en las cuales es posible trabajar con toda la población y aquellas que requieran la selección de una muestra.
+        - Resolución de problemas que demanden interpretar información organizada en pictogramas.
+        - Identificación de ventajas y desventajas, similitudes y diferencias entre las diversas maneras en que es posible organizar y representar la información.
+
+## Geometría
+- Suma de ángulos interiores de un triángulo
+- Estudio de las propiedades de los paralelogramos a través de la construcción
+    - Construcción de paralelogramos, usando regla no graduada, compás y transportador, a partir de diferentes informaciones.
+    - Identificación de propiedades de los paralelogramos a partir del trabajo de construcciones.
+    - Suma de los ángulos interiores de un paralelogramo.
+    - 
 
