@@ -38,6 +38,21 @@
     - Fracciones en el contexto de la proporcionalidad directa
         - esolución de problemas de proporcionalidad directa en los que la constante de proporcionalidad es una fracción.
         - Identificación de algunas constantes particulares: porcentaje, escala, velocidad.
-    - Relaciones entre fracciones 
+    - Relaciones entre fracciones
+        - Utilización de diferentes estrategias para proponer fracciones entre dos fracciones dadas.
+        - Utilización de diferentes recursos para comparar fracciones.
+    - Representación de fracciones en la recta numérica:
+        - Ubicación de fracciones en la recta a partir de diferentes informaciones. 
+    - Operaciones con fracciones
+        - Elaboración de recursos de cálculo mental para resolver algunas sumas o restas.
+        - Multiplicación de fracciones en el contexto de la proporcionalidad directa:
+        - Determinación de la fracción inversa a partir de encontrar pares de fracciones cuyo producto es 1.
+        - Multiplicación de fracciones en el contexto de la proporcionalidad inversa.
+        - Multiplicación de fracciones en el contexto de área.
+    - Números racionales: Expresiones decimales
+        - Descomposición de una fracción decimal en suma de fracciones con denominador 10, 100, 1.000 y numerador de una cifra.
+    - Orden de expresiones decimales - Representación en la recta
+        - Orden de expresiones decimales y fraccionarias.
+        - Representación en la recta.
 - Relaciones entre variables
 
