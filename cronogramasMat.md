@@ -19,9 +19,10 @@ El tiempo es la variable a tener en cuenta para planificar y ajustar los planes
 |04 - 08 |Propiedades multiplicación|copia de figuras|
 
 - Segundo bimestre 11/5 - 17/7
-    - Semanas: 
+    - Semanas: 11
+
 - Tercer Bimestre 3/08 - 09/10
-    - Semanas: 
+    - Semanas: 11
 - Cuarto Bimestre 13/10 - 23/12
-    - Semanas: 
+    - Semanas: 10,5
 
