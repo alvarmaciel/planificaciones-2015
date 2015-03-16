@@ -91,7 +91,6 @@
         - Análisis de las condiciones para que una situación sea de proporcionalidad inversa.
         - Análisis del dominio de variación de las variables.
         - Situaciones que involucran varias relaciones de proporcionalidad directa e inversa.
-        - 
     - Estadística 
         - Resolución de problemas que exijan interpretar y buscar información organizada en tablas de frecuencias, cuadros de doble entrada o diagramas de barras.
         - Interpretación de la información dada por tablas que aparecen en los medios de comunicación.
