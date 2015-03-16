@@ -53,5 +53,12 @@
     - Orden de expresiones decimales - Representación en la recta
         - Orden de expresiones decimales y fraccionarias.
         - Representación en la recta.
+        - Interpolación de expresiones decima les entre dos expresiones decimales dadas.
+    - Densidad de los números decimales
+        - Resolución de problemas que permitan el inicio en el estudio de la densidad.
+        - Representación en la recta de expresiones decimales a partir de ciertas informaciones.
+    - Análisis de valor posicional
+        - Resolución de problemas que involucren el valor posicional en la notación decimal.
+        - Utilización de la calculadora para reflexionar sobre la estructura decimal de la notación 
 - Relaciones entre variables
 
