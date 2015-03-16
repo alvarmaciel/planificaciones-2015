@@ -10,6 +10,34 @@
         - La interpretación y la utilización de la información contenida en la escritura decimal.
         - Representación a escala de cantidades grandes.
 - Operaciones
+    - Problemas multiplicativos con números naturales.
+        - Resolución de problemas que combinen las cuatro operaciones con números naturales.
+        - Resolución de problemas de combinatoria que involucren variaciones utilizando diagramas de árbol, gráficos, cuadros de doble entrada y la multiplicación.
+        - Resolución de problemas de combinatoria que involucren problemas de permutaciones sin repetición.
+        - Utilización de la potenciación como recurso para resolver problemas de tipo recursivo.
+    - División entera:
+        - Resolución de problemas de división que involucren un análisis del resto.
+        - Resolución de problemas que implican la iteración de un proceso de adición o sustracción.
+        - Uso de la calculadora para reconstruir el resto de una división.
+        - Utilización de las relaciones c x d + r = D y r < d para resolver problemas.
+        - 
+    - Divisibilidad:
+        - Números primos y compuestos.
+        - Descomposición multiplicativa de un número.
+        - Resolución de problemas que impliquen la descomposición multiplicativa de un número
+        - Análisis y fundamentación de los criterios de divisibilidad.
+        - Formulación y validación de conjeturas relativas a las nociones de múltiplo y divisor
+    - Cálculos exactos y aproximados. adición y sustracción
+        - Resolución de cálculos horizontales en la calculadora sin usar lápiz y papel para anotar resultados parciales   
 - Números racionales
+    - Las fracciones y el cociente exacto entre números naturales:
+        - Resolución de problemas que impliquen poner de relieve que la fracción es un cociente de números naturales.
+    - Segmentos conmensurables
+        - Resolución de problemas que impliquen establecer la relación racional entre dos segmentos a y b, si se sabe que un múltiplo de a es igual a un múltiplo de b. 
+        - Resolución de problemas en los que haya que determinar un segmento c que entra una cantidad exacta de veces en a y en b si se sabe que un múltiplo de a es igual a un múltiplo de b.
+    - Fracciones en el contexto de la proporcionalidad directa
+        - esolución de problemas de proporcionalidad directa en los que la constante de proporcionalidad es una fracción.
+        - Identificación de algunas constantes particulares: porcentaje, escala, velocidad.
+    - Relaciones entre fracciones 
 - Relaciones entre variables
 
