@@ -4,5 +4,6 @@
 * [Matemáticas](matematicas.md)
    * [Contenidos](contenidosMat.md)
    * [Cronogramas](cronogramasMat.md)
+   * [Secuencias Matemáticas](secuenciasMat.md)
 * [Ciencias Naturales](ciencias_naturales.md)
 
