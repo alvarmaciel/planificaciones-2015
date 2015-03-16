@@ -105,5 +105,16 @@
     - Construcción de paralelogramos, usando regla no graduada, compás y transportador, a partir de diferentes informaciones.
     - Identificación de propiedades de los paralelogramos a partir del trabajo de construcciones.
     - Suma de los ángulos interiores de un paralelogramo.
-    - 
+- Polígonos regulares
+    - Construcción de polígonos regulares a partir del análisis del valor del ángulo central o del ángulo interior.
+    - Suma de los ángulos interiores de un polígono cualquiera. Suma de los ángulos exteriores de un polígono cualquiera
+    - Resolución de problemas que pongan en juego el valor de los ángulos interio res y exteriores en diferentes clases de polígonos.
+- Polígonos no regulares:
+    - Construcción de polígonos no regulares a partir de ciertas informaciones
+- Figuras circulares
+    - Construcción a partir de condiciones específicas del sector circular, la corona circular y el trapecio circular.
+
+## Medida
+- Longitud, capacidad, peso y tiempo
+    -  
 
