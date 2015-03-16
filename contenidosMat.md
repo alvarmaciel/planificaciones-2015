@@ -59,6 +59,19 @@
         - Representación en la recta de expresiones decimales a partir de ciertas informaciones.
     - Análisis de valor posicional
         - Resolución de problemas que involucren el valor posicional en la notación decimal.
-        - Utilización de la calculadora para reflexionar sobre la estructura decimal de la notación 
+        - Utilización de la calculadora para reflexionar sobre la estructura decimal de la notación decimal.
+    - Cálculos en expresiones decimales
+        - Cociente decimal de dos números enteros.
+        - Determinación de la cantidad de cifras a obtener en un resultado en función de la situación a resolver.
+        - Redondeo de expresiones decimales a los décimos, a los centésimos, a los milésimos.
+        - Resolución de operaciones con la calculadora cuyas escrituras excedan la capacidad de la misma.
+        - Cálculo exacto y aproximado de adiciones y sustracciones de expresiones decimales por procedimientos diversos de cálculo mental, con calculadora y utilizando algoritmos convencionales.
+        - Multiplicación de expresiones decimales en el contexto de la proporcionalidad directa.
+        - División de decimales en el contexto de la proporcionalidad directa e inversa. Uso de la calculadora
+        - Cálculo mental de multiplicaciones aprovechando la estructura decimal.
+        - Utilización de la calculadora para aproximar números.
+        - Estimación de cálculos con decimales.
 - Relaciones entre variables
+    - Relaciones de proporcionalidad directa entre variables
+        - 
 
