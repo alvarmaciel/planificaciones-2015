@@ -2,7 +2,7 @@
 En sexto grado se avanza con el estudio de las interacciones de los materiales entre sí, poniendo énfasis en la descripción de las características de una diversidad de mezclas.
 ## Mapa conceptual del tema
 
-[![mapa conceptual mezclas]](https://farm9.staticflickr.com/8755/16718145890_485001f6c5_c.jpg "Mapa conceptual de contenidos sobre mezclas)(https://cmapscloud.ihmc.us/viewer/cmap/1NTKM8RB9-26QLQSZ-1N4)
+[![mapa conceptual mezclas](https://farm9.staticflickr.com/8755/16718145890_485001f6c5_c.jpg "Mapa conceptual de contenidos sobre mezclas)](https://cmapscloud.ihmc.us/viewer/cmap/1NTKM8RB9-26QLQSZ-1N4)
 
 ## ¿Qué queremos enseñar?
 
