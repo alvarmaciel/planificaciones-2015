@@ -8,4 +8,4 @@
 * [Ciencias Naturales](ciencias_naturales.md)
    * [Contenidos](contenidosNat.md)
    * [Cronogramas](cronogramasNat.md)
-   * [Secuencias Matemáticas](secuenciasNat.md)
+   * [Secuencias Naturales](secuenciasNat.md)
