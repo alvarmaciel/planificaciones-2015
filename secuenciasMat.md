@@ -38,7 +38,7 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
 - Resolvé mentalmente
 
 ### Geometría
-- Reporducir figuras en hoja blanca
+- Reproducir figuras en hoja blanca
 
 ### Khan Academy
 - Durante esta semana tengo que terminar de cargar los alumnos en Khan Academy.
