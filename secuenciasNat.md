@@ -1,10 +1,67 @@
 # Secuencias de Ciencias naturales
 En sexto grado se avanza con el estudio de las interacciones de los materiales entre sí, poniendo énfasis en la descripción de las características de una diversidad de mezclas.
+## Mapa conceptual del tema
+
+<iframe src="https://cmapscloud.ihmc.us/viewer/cmap/1NTKM8RB9-26QLQSZ-1N4?cmapBorder=true&scaleToFit=true" width="900" height="691" frameborder="0" ></iframe>
+
+[Versión en pdf]({{site.baseurl}}/recursos/Mezclas.pdf)
+
+## ¿Qué queremos enseñar?
+
+- Qué cuando los materiales se mezclan, se obtienen distintos resultados según cuáles sean los materiales.
+- Qué la cantidad de total de materia se conserva.
+- Que algunas mezclas pueden ser identificadas y clasificadas a partir de la observación de sus componentes.
+- Qué las soluciones son un tipo de mezcla particular en la que no se pueden distinguir sus componentes ni a simple vista ni con el microscopio.
+- Comparación entre distintos tipos de soluciones según sus componentes (líquidos en líquidos, sólidos en líquidos, gases en líquidos). 
+- Identificación de la destilación como método de separación de las soluciones sólido-líquido.
+- El agua como solvente. Comparación con otros solventes.
+- Elaboración de tablas de registro de datos.
+- Análisis y discusión de los resultados.
 
 
-| Ideas Básicas| Alcance de los contenidos | Competencias Científicas|
-|:-------------|:--------------------------|:------------------------|
-|Cuando los materiales se mezclan, se obtienen distintos resultados según cuáles sean los materiales. En todos los casos, la cantidad total de materia se conserva.|<strong>Exploración sistemática de distintos tipos de mezclas:</strong><br> - Comparación según sus características observables (homogeneidad, transparencia) y por los métodos que se utilizan para separar los componentes.<br> - Diseño y realización de experiencias para separar los distintos componentes de las mezclas y soluciones.<br> - Discusión de resultados: introducción a la idea de que la cantidad total de materia no varía al mezclar y separar materiales.|
-|Las soluciones son un tipo de mezcla particular en la que no se pueden distinguir sus componentes ni a simple vista ni con el microscopio. Como el agua forma una gran diversidad de soluciones, se la conoce como solvente universal|<strong>Comparación entre las soluciones y otro tipo de mezclas:</strong><br> - Observación de distintas mezclas y soluciones al microscopio.<br> - Comparación entre distintos tipos de soluciones según sus componentes (líquidos en líquidos, sólidos en líquidos, gases en líquidos).<br> - Identificación de la destilación como método de separación de las soluciones sólido-líquido.<br> - Utilización de vocabulario específico: noción de soluto y solvente.<br> - Comparación entre la capacidad de disolver del agua y de otros solventes. Diseño y realización de experiencias con soluciones de distinta concentración. <br>- Distinción entre soluciones concentradas y diluidas.<br> - Elaboración de tablas de registro de datos.<br> - Análisis y discusión de los resultados||
-|Las personas utilizan el agua de diferentes maneras.En algunos casos pueden contaminarla|<strong>Reconocimiento de diferentes usos y aprovechamiento del agua. Comparación de aguas potables y aguas no potables.</strong><br> - Información sobre la problemática de la contaminación del Riachuelo y del Río de la Plata.<br> - Información de procesos de potabilización en nuestra Ciudad. Identificación del impacto que produce la contaminación del agua en el ambiente||
+|Conceptos|Competencias|
+|:-------|:----------|
+|- Una mezcla es un sistema material formado por dos o más componentes unidos.<br>- Las mezclas se clasifican en: Homogéneas y Heterogéneas.|- Observar y describir las características de un objeto o fenómeno.<br>- Clasificar objetos o fenómenos de acuerdo con criterios propios y fundamentar dichos criterios.|
+|- La cantidad total de materia se conserva en las mezclas<br>|- Formular preguntas investigables.<br>- Formular hipótesis y predicciones asociadas a dichas hipótesis.<br>- Diseñar experimentos para poner a prueba una hipótesis, proponiendo condiciones experimentales, controles y la variable a medir.|
+|Mezclas Homogéneas:<br>- Soluciones<br>- La disolución consta de dos partes: soluto y solvente.<br>- Cuando el soluto se disuelve, éste pasa a formar parte de la solución.<br>-La destilación es la operación de separar, mediante vaporización y condensación en los diferentes componentes líquidos, sólidos disueltos en líquidos o gases licuados de una mezcla |- Formular preguntas investigables.<br>- Formular hipótesis y predicciones asociadas a dichas hipótesis.<br>- Diseñar experimentos para poner a prueba una hipótesis, proponiendo condiciones experimentales, controles y la variable a medir.|
+
+
+
+## Secuencia
+
+1. Observación de imágenes de desayunos para identificar y clasificar mezclas.
+   - Preguntas guía:
+	 - ¿Qué es una mezcla?
+	 - ¿Cómo son las mezclas?
+	 - ¿Cómo las clasificarían?
+   - Ideas claves:
+	   - Mezclas
+	   - Tipos: Homogénea y Heterogénea 
+   - Competencias Científicas:
+	   - Observar
+	   - Describir
+	   - Clasificar
+   - Actividades:
+	  - Análsis de imágenes
+	  - Clasificación de mzclas según imágenes, justificación
+	  - Lectura de texto y elaboración de epígrafes argumentativos
+   - Recursos:
+	   - Proyector
+	   - Netbooks
+2. Diseñar un experimento para averiguar si la cantidad de materia se conserva en las mezclas heterogeneas
+   - Preguntas guía:
+   - Ideas claves:
+   - Competencias Científicas:
+   - Actividades:
+   - Recursos:
+3. Diseñar un experimento para encontrar cuál es el mejor solvente para preparar tintura para teñir tela
+   - Preguntas guía:
+   - Ideas claves:
+   - Competencias Científicas:
+   - Actividades:
+   - Recursos
+
+
+| Semana | Preguntas Guía | Ideas claves | Competencias científicas | actividades | comentarios recursos a usar |
+|:-------|:---------------|:-------------|:-------------------------|:------------|:----------------------------|
 
