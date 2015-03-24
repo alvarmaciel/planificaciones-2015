@@ -1,6 +1,6 @@
 # Secuencias de Ciencias naturales
 ## Los Materiales
-En sexto grado se avanza con el estudio de las interacciones de los materiales entre sí, poniendo énfasis en la descripción de las características de una diversidad de mezclas.
+En sexto grado se avanza con el estudio de las interacciones de los materiales entre si, poniendo énfasis en la descripción de las características de una diversidad de mezclas.
 
 ## Mapa conceptual del tema
 
