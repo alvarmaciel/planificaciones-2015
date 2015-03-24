@@ -131,5 +131,13 @@ En sexto grado se avanza con el estudio de las interacciones de los materiales e
 |--------------------------------------------|
 |<br>|
 
-**Evaluación:**
+##### Evaluación:
+
 Incluida en la guía de trabajo en el laboratorio.
+
+## Bibliografía - Sitiografía:
+- [Furman, M. (2007). Haciendo ciencia en la escuela primaria: Mucho más que recetas de cocina. Revista 12ntes, 15, 2-3.](http://www.ebicentenario.org.ar/documentos/mat_ciencia/Furman_Haciendo_Ciencias_en_la_Escuela_Primaria.pdf)
+- [Gellon, G. (2008b). Los experimentos en la escuela: La visión de un científico en el aula. Revista 12ntes, 24, 13-14.](http://www.ebicentenario.org.ar/documentos/mat_ciencia/Gellon_G_(2008b).pdf)
+- Furman, M. Podestá, M. E. (2013) La aventura de enseñar Ciencias Naturales. Aique
+- [Educ.ar](http://www.educ.ar/sitios/educar/recursos/ver?id=92144)
+- [Material para docentes, Escuelas del Bicentenario](http://www.ebicentenario.org.ar/ebooks/CN_docentes_sexto/)
