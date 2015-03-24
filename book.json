@@ -1,7 +1,19 @@
 {
-  "plugins"       : ["tocstyles"]
-  ,"pluginsConfig":
-  {
-    "tocstyles" : [ "", "cjk-ideographic", "decimal-leading-zero" ]
-  }
+    "plugins": [
+        "tocstyles"
+    ],
+    "pluginsConfig": {
+        "tocstyles": {
+            "plugins": [
+                "tocstyles"
+            ],
+            "pluginsConfig": {
+                "tocstyles": [
+                    "",
+                    "cjk-ideographic",
+                    "decimal-leading-zero"
+                ]
+            }
+        }
+    }
 }
