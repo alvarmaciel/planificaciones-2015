@@ -37,12 +37,12 @@ En sexto grado se avanza con el estudio de las interacciones de los materiales e
 |3      |Mezclas homogéneas - soluto y sovente|Diseñar un experimento para medir y comprobar si aumenta o no la materia en una mezcla|
 |4      |Mezclas homogéneas - soluto y sovente|Realización del experimento y contraste entre el diseño y el experimento|
 |5      |Destilación y condensación | Análisis de experimentos de otros |
-|6      |Evaluación                 |            |
+|6      |Evaluación                 | ¿Qué aprendieron? ¿Qué habría que cambiar?           |
 
 
-## Secuencia
+## Secuencias
+### Conservación de materia en mezclas
 
-- **Conservación de materia en mezclas**
 - **Semana 1 y 2**
 
 |Conceptos|Competencias|
@@ -51,49 +51,84 @@ En sexto grado se avanza con el estudio de las interacciones de los materiales e
 |- La cantidad total de materia se conserva en las mezclas.<br>|- Que analicen los resultados del experimento en relación a la hipótesis formulada y la descarten, acepten o refinene.<br>- Que critiquen el diseño experimental de sus pares y propongan mejoras.|
 
 **Materiales:**
+- Para las mezclas:
+  - agua,
+  - aceite,
+  - detergente,
+  - sal fina,
+  - sal gruesa,
+  - azúcar,
+  - alcohol,
+  - parafina,
+  - azul de mileno,
+  - arena,
+  - bolitas o piedritas,
+  - limaduras de hierro,
+  - telgopr,
+  
+**Secuencia de clase 1:**
 
-**Secuencia de clase:**
-1.
-2.
-3.
-4.
+1. Introducción: El docente comentará a la clase que analizarán distintos tipos de mezclas y realizarán preguntas que puedan ser contestadas a travès de la experimentación. Luego les mostrará 4 tipos de mezclas en dos momentos, uno sin agua y otro con agua.
+  - Primer momento. Mezclas:
+    1. limadura de hierro y arena
+    2. telgopor y piedritas
+    3. azucar y arena
+    4. sal gruesa y telgopor
+  - Segundo momento. Agrego agua a las mezclas
+2. Preguntas investigables: Les pediremso que formulen preguntas que podríamos investigar en relación a cómo serán las mezclas en cada momento y que pasa con los materiales cuando se mezclan. clasificaremos entre las preguntas investigables a partir de un experimento y las que necesitan de otros elementos para responder.
+3. hipótesis y predicciones: Discutiremos cuales serían las respuestas posibles a las preguntas seleccionadas. y buscaremos predicciones ¿si fuera cierto, qué tendría que suceder? y ¿si fuera falsa?
+4. Qué y como medir: Discutiremos con los alumnos qué habrá que medir y observar para responder a la pregunta.
+5. Diseño del experimento: Cada grupo armará el diseño de un experimento que pueda responder a la pregunta de investigación seleccionada. Deberán indicar no solo los pasos del experimento sino como registraran los datos y las observaciones del mismo.
+6. Revisión entre pares, cada grupo expondrá su diseño y se harán sugerencias sobre el mismo.
+5. Se hará la lista de elemntos a traer para la clase en que cada grupo hará su experimento
+
+
+
+**Secuencia de clase 2:**
+
+1. Introducción: revisaremos los materiales y los experimentos. haremos un repaso por las condiciones en las que usaremos el laboratorio.
+2. Realización del experimento: Harán el experimento y completado de tabla de con los resultados. Finalmente cada grupo expondrá los resultados a la clase.
+3. Formulación de la explicitación teórica: Finalmente se discutirá la respuesta a la pregunta.
+
+#### Modelo de guía de trabajo de laboratorio
+
+###### Guía de trabajo en el laboratorio
+
+|El experimento de hoy es:|
+|------------------------ |
+|        <br>                |
+
+|¿Qué pregunta queremos contestar?|
+|------------------------ |
+|        <br>                |
+
+###### Nuestra hipótesis (respuesta) y nuestras predicciones
+
+|Hipótesis <br>pensamos qué... porque...|Predicciones: <br> si la hipótesis es correcta, entonces |
+|---------------------------------------|---------------------------------------------------------|
+|<br>|<br>|
+
+##### Mi diseño experimental para poner la hipótesis a prueba:
+
+|Mido|modifico|Dejo igual|
+|----|-------|--------|
+|<br>|<br>|<br>|
+
+|Resultados|
+|----------|
+|<br>|
+
+|Conclusiones|
+|------------|
+|<br>|
+
+|¿Qué aprendí de este experimento? ¿Cambió lo que pensaba?|
+|---------------------------------------------------------|
+|<br>|
+
+|¿Qué nuevas cosas quiero saber de este tema?|
+|--------------------------------------------|
+|<br>|
 
 **Evaluación:**
-
-
-1. Observación de imágenes de desayunos para identificar y clasificar mezclas.
-   - Preguntas guía:
-	 - ¿Qué es una mezcla?
-	 - ¿Cómo son las mezclas?
-	 - ¿Cómo las clasificarían?
-   - Ideas claves:
-	   - Mezclas
-	   - Tipos: Homogénea y Heterogénea 
-   - Competencias Científicas:
-	   - Observar
-	   - Describir
-	   - Clasificar
-   - Actividades:
-	  - Análsis de imágenes
-	  - Clasificación de mzclas según imágenes, justificación
-	  - Lectura de texto y elaboración de epígrafes argumentativos
-   - Recursos:
-	   - Proyector
-	   - Netbooks
-2. Diseñar un experimento para averiguar si la cantidad de materia se conserva en las mezclas heterogeneas
-   - Preguntas guía:
-   - Ideas claves:
-   - Competencias Científicas:
-   - Actividades:
-   - Recursos:
-3. Diseñar un experimento para encontrar cuál es el mejor solvente para preparar tintura para teñir tela
-   - Preguntas guía:
-   - Ideas claves:
-   - Competencias Científicas:
-   - Actividades:
-   - Recursos
-
-
-| Semana | Preguntas Guía | Ideas claves | Competencias científicas | actividades | comentarios recursos a usar |
-|:-------|:---------------|:-------------|:-------------------------|:------------|:----------------------------|
-
+Incluida en la guía de trabajo en el laboratorio.
