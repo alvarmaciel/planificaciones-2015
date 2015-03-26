@@ -8,12 +8,17 @@
 <li><a href="#sec-1-2">1.2. ¿Qué queremos enseñar?</a></li>
 <li><a href="#sec-1-3">1.3. Objetivos de aprendizaje</a></li>
 <li><a href="#sec-1-4">1.4. Planificación general</a></li>
-<li><a href="#sec-1-5">1.5. Secuencias</a>
+<li><a href="#sec-1-5">1.5. Secuencias</a></li>
+<li><a href="#sec-1-6">1.6. Conservación de materia en mezclas</a></li>
+<li><a href="#sec-1-7">1.7. Modelo de guía de trabajo de laboratorio</a></li>
+<li><a href="#sec-1-8">1.8. Guía de trabajo en el laboratorio</a></li>
+<li><a href="#sec-1-9">1.9. Nuestra hipótesis (respuesta) y nuestras predicciones</a></li>
+<li><a href="#sec-1-10">1.10. Mi diseño experimental para poner la hipótesis a prueba:</a>
 <ul>
-<li><a href="#sec-1-5-1">1.5.1. Conservación de materia en mezclas</a></li>
+<li><a href="#sec-1-10-1">1.10.1. Evaluación:</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-6">1.6. Bibliografía - Sitiografía:</a></li>
+<li><a href="#sec-1-11">1.11. Bibliografía - Sitiografía:</a></li>
 </ul>
 </li>
 </ul>
@@ -130,7 +135,7 @@ En sexto grado se avanza con el estudio de las interacciones de los materiales e
 
 ## Secuencias<a id="sec-1-5"></a>
 
-### Conservación de materia en mezclas<a id="sec-1-5-1"></a>
+## Conservación de materia en mezclas<a id="sec-1-6"></a>
 
 -   **Semana 1 y 2**
 
@@ -150,8 +155,7 @@ En sexto grado se avanza con el estudio de las interacciones de los materiales e
 </thead>
 </table>
 
-**Materiales:**
-
+-   **Materiales:**
 -   Para las mezclas:
     -   agua,
     -   aceite,
@@ -165,7 +169,7 @@ En sexto grado se avanza con el estudio de las interacciones de los materiales e
     -   arena,
     -   bolitas o piedritas,
     -   limaduras de hierro,
-    -   telgopr,
+    -   telgopor,
 
 **Secuencia de clase 1:**
 
@@ -189,185 +193,185 @@ En sexto grado se avanza con el estudio de las interacciones de los materiales e
 2.  Realización del experimento: Harán el experimento y completado de tabla de con los resultados. Finalmente cada grupo expondrá los resultados a la clase.
 3.  Formulación de la explicitación teórica: Finalmente se discutirá la respuesta a la pregunta.
 
-1.  Modelo de guía de trabajo de laboratorio
+## Modelo de guía de trabajo de laboratorio<a id="sec-1-7"></a>
 
-    1.  Guía de trabajo en el laboratorio
-    
-        <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-        
-        
-        <colgroup>
-        <col  class="left" />
-        </colgroup>
-        <tbody>
-        <tr>
-        <td class="left">El experimento de hoy es:</td>
-        </tr>
-        
-        
-        <tr>
-        <td class="left"></br></td>
-        </tr>
-        
-        
-        <tr>
-        <td class="left">&#xa0;</td>
-        </tr>
-        </tbody>
-        </table>
-        
-        <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-        
-        
-        <colgroup>
-        <col  class="left" />
-        </colgroup>
-        <tbody>
-        <tr>
-        <td class="left">¿Qué pregunta queremos contestar?</td>
-        </tr>
-        
-        
-        <tr>
-        <td class="left"></br></td>
-        </tr>
-        
-        
-        <tr>
-        <td class="left">&#xa0;</td>
-        </tr>
-        </tbody>
-        </table>
-    
-    2.  Nuestra hipótesis (respuesta) y nuestras predicciones
-    
-        <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-        
-        
-        <colgroup>
-        <col  class="left" />
-        
-        <col  class="left" />
-        </colgroup>
-        <tbody>
-        <tr>
-        <td class="left">Hipótesis </br>pensamos qué&#x2026; porque&#x2026;</td>
-        <td class="left">Predicciones: </br> si la hipótesis es correcta, entonces</td>
-        </tr>
-        
-        
-        <tr>
-        <td class="left"></br></td>
-        <td class="left"></br></td>
-        </tr>
-        </tbody>
-        </table>
-    
-    1.  Mi diseño experimental para poner la hipótesis a prueba:
-    
-        <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-        
-        
-        <colgroup>
-        <col  class="left" />
-        
-        <col  class="left" />
-        
-        <col  class="left" />
-        </colgroup>
-        <tbody>
-        <tr>
-        <td class="left">Mido</td>
-        <td class="left">modifico</td>
-        <td class="left">Dejo igual</td>
-        </tr>
-        
-        
-        <tr>
-        <td class="left"></br></td>
-        <td class="left"></br></td>
-        <td class="left"></br></td>
-        </tr>
-        </tbody>
-        </table>
-        
-        <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-        
-        
-        <colgroup>
-        <col  class="left" />
-        </colgroup>
-        <tbody>
-        <tr>
-        <td class="left">Resultados</td>
-        </tr>
-        
-        
-        <tr>
-        <td class="left"></br></td>
-        </tr>
-        </tbody>
-        </table>
-        
-        <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-        
-        
-        <colgroup>
-        <col  class="left" />
-        </colgroup>
-        <tbody>
-        <tr>
-        <td class="left">Conclusiones</td>
-        </tr>
-        
-        
-        <tr>
-        <td class="left"></br></td>
-        </tr>
-        </tbody>
-        </table>
-        
-        <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-        
-        
-        <colgroup>
-        <col  class="left" />
-        </colgroup>
-        <tbody>
-        <tr>
-        <td class="left">¿Qué aprendí de este experimento? ¿Cambió lo que pensaba?</td>
-        </tr>
-        
-        
-        <tr>
-        <td class="left"></br></td>
-        </tr>
-        </tbody>
-        </table>
-        
-        <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-        
-        
-        <colgroup>
-        <col  class="left" />
-        </colgroup>
-        <tbody>
-        <tr>
-        <td class="left">¿Qué nuevas cosas quiero saber de este tema?</td>
-        </tr>
-        
-        
-        <tr>
-        <td class="left"></br></td>
-        </tr>
-        </tbody>
-        </table>
-    
-    2.  Evaluación:
-    
-        Incluida en la guía de trabajo en el laboratorio.
+## Guía de trabajo en el laboratorio<a id="sec-1-8"></a>
 
-## Bibliografía - Sitiografía:<a id="sec-1-6"></a>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="left">El experimento de hoy es:</td>
+</tr>
+
+
+<tr>
+<td class="left"></br></td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="left">¿Qué pregunta queremos contestar?</td>
+</tr>
+
+
+<tr>
+<td class="left"></br></td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+## Nuestra hipótesis (respuesta) y nuestras predicciones<a id="sec-1-9"></a>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+
+<col  class="left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="left">Hipótesis </br>pensamos qué&#x2026; porque&#x2026;</td>
+<td class="left">Predicciones: </br> si la hipótesis es correcta, entonces</td>
+</tr>
+
+
+<tr>
+<td class="left"></br></td>
+<td class="left"></br></td>
+</tr>
+</tbody>
+</table>
+
+## Mi diseño experimental para poner la hipótesis a prueba:<a id="sec-1-10"></a>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+
+<col  class="left" />
+
+<col  class="left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="left">Mido</td>
+<td class="left">modifico</td>
+<td class="left">Dejo igual</td>
+</tr>
+
+
+<tr>
+<td class="left"></br></td>
+<td class="left"></br></td>
+<td class="left"></br></td>
+</tr>
+</tbody>
+</table>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="left">Resultados</td>
+</tr>
+
+
+<tr>
+<td class="left"></br></td>
+</tr>
+</tbody>
+</table>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="left">Conclusiones</td>
+</tr>
+
+
+<tr>
+<td class="left"></br></td>
+</tr>
+</tbody>
+</table>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="left">¿Qué aprendí de este experimento? ¿Cambió lo que pensaba?</td>
+</tr>
+
+
+<tr>
+<td class="left"></br></td>
+</tr>
+</tbody>
+</table>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="left">¿Qué nuevas cosas quiero saber de este tema?</td>
+</tr>
+
+
+<tr>
+<td class="left"></br></td>
+</tr>
+</tbody>
+</table>
+
+### Evaluación:<a id="sec-1-10-1"></a>
+
+Incluida en la guía de trabajo en el laboratorio.
+
+## Bibliografía - Sitiografía:<a id="sec-1-11"></a>
 
 -   [Furman, M. (2007). Haciendo ciencia en la escuela primaria: Mucho más que recetas de cocina. Revista 12ntes, 15, 2-3.](<http://www.ebicentenario.org.ar/documentos/mat_ciencia/Furman_Haciendo_Ciencias_en_la_Escuela_Primaria.pdf>)
 -   [Gellon, G. (2008b). Los experimentos en la escuela: La visión de un científico en el aula. Revista 12ntes, 24, 13-14.](<http://www.ebicentenario.org.ar/documentos/mat_ciencia/Gellon_G_(2008b)>.pdf)
