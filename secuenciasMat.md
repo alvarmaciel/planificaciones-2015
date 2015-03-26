@@ -53,16 +53,6 @@ Los estudiantes tienen clases de matemáticas todos los días salvo los miércol
 
 
 <tr>
-<td class="right">:&#x2013;:</td>
-<td class="left">:&#x2014;&#x2014;:</td>
-<td class="right">:&#x2014;&#x2014;&#x2014;:</td>
-<td class="left">:&#x2013;&#x2014;&#x2014;:</td>
-<td class="left">:&#x2014;&#x2014;:</td>
-<td class="left">:-&#x2014;&#x2014;:</td>
-</tr>
-
-
-<tr>
 <td class="right">1</td>
 <td class="left">6C</td>
 <td class="right">6D</td>
@@ -144,13 +134,6 @@ Junto ambas semanas dado que hay 4 días de feriado entre las dos
 <td class="left">Semana</td>
 <td class="left">Números y operaciones</td>
 <td class="left">Geometría</td>
-</tr>
-
-
-<tr>
-<td class="left">:-------</td>
-<td class="left">:-----------------------------------------------------------------</td>
-<td class="left">:-----------------------------------------------------</td>
 </tr>
 
 
