@@ -2,140 +2,21 @@
 <h2>&Iacute;ndice</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">1. Los Materiales</a>
+<li><a href="#sec-1">1. Conservación de materia en mezclas</a></li>
+<li><a href="#sec-2">2. Modelo de guía de trabajo de laboratorio</a></li>
+<li><a href="#sec-3">3. Guía de trabajo en el laboratorio</a></li>
+<li><a href="#sec-4">4. Nuestra hipótesis (respuesta) y nuestras predicciones</a></li>
+<li><a href="#sec-5">5. Mi diseño experimental para poner la hipótesis a prueba:</a>
 <ul>
-<li><a href="#sec-1-1">1.1. Mapa conceptual del tema</a></li>
-<li><a href="#sec-1-2">1.2. ¿Qué queremos enseñar?</a></li>
-<li><a href="#sec-1-3">1.3. Objetivos de aprendizaje</a></li>
-<li><a href="#sec-1-4">1.4. Planificación general</a></li>
-<li><a href="#sec-1-5">1.5. Secuencias</a></li>
-<li><a href="#sec-1-6">1.6. Conservación de materia en mezclas</a></li>
-<li><a href="#sec-1-7">1.7. Modelo de guía de trabajo de laboratorio</a></li>
-<li><a href="#sec-1-8">1.8. Guía de trabajo en el laboratorio</a></li>
-<li><a href="#sec-1-9">1.9. Nuestra hipótesis (respuesta) y nuestras predicciones</a></li>
-<li><a href="#sec-1-10">1.10. Mi diseño experimental para poner la hipótesis a prueba:</a>
-<ul>
-<li><a href="#sec-1-10-1">1.10.1. Evaluación:</a></li>
+<li><a href="#sec-5-1">5.1. Evaluación:</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-11">1.11. Bibliografía - Sitiografía:</a></li>
-</ul>
-</li>
+<li><a href="#sec-6">6. Bibliografía - Sitiografía:</a></li>
 </ul>
 </div>
 </div>
 
-# Los Materiales<a id="sec-1"></a>
-
-En sexto grado se avanza con el estudio de las interacciones de los materiales entre si, poniendo énfasis en la descripción de las características de una diversidad de mezclas.
-
-## Mapa conceptual del tema<a id="sec-1-1"></a>
-
-[\\![mapa conceptual mezclas](![img](//farm9.staticflickr.com/8755/16718145890_485001f6c5_c.jpg) "Mapa conceptual de contenidos sobre mezclas)](<https://cmapscloud.ihmc.us/viewer/cmap/1NTKM8RB9-26QLQSZ-1N4>)
-
-## ¿Qué queremos enseñar?<a id="sec-1-2"></a>
-
--   Qué cuando los materiales se mezclan, se obtienen distintos resultados según cuáles sean los materiales.
--   Qué la cantidad de total de materia se conserva.
--   Que algunas mezclas pueden ser identificadas y clasificadas a partir de la observación de sus componentes.
--   Qué las soluciones son un tipo de mezcla particular en la que no se pueden distinguir sus componentes ni a simple vista ni con el microscopio.
--   Comparación entre distintos tipos de soluciones según sus componentes (líquidos en líquidos, sólidos en líquidos, gases en líquidos).
--   Identificación de la destilación como método de separación de las soluciones sólido-líquido.
--   El agua como solvente. Comparación con otros solventes.
--   Elaboración de tablas de registro de datos.
--   Análisis y discusión de los resultados.
-
-## Objetivos de aprendizaje<a id="sec-1-3"></a>
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="left" />
-
-<col  class="left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="left">Conceptos</th>
-<th scope="col" class="left">Competencias</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td class="left">Mezclas Homogéneas:<br>- Soluciones<br>- La disolución consta de dos partes: soluto y solvente.<br>- Cuando el soluto se disuelve, éste pasa a formar parte de la solución.<br>-La destilación es la operación de separar, mediante vaporización y condensación en los diferentes componentes líquidos, sólidos disueltos en líquidos o gases licuados de una mezcla</td>
-<td class="left">- Formular preguntas investigables.<br>- Formular hipótesis y predicciones asociadas a dichas hipótesis.<br>- Diseñar experimentos para poner a prueba una hipótesis, proponiendo condiciones experimentales, controles y la variable a medir.</td>
-</tr>
-</tbody>
-</table>
-
-## Planificación general<a id="sec-1-4"></a>
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="right" />
-
-<col  class="left" />
-
-<col  class="left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="right">Semana</td>
-<td class="left">Contenido para desarrollar</td>
-<td class="left">Actividades</td>
-</tr>
-
-
-<tr>
-<td class="right">1</td>
-<td class="left">Conservación de la materia en mezclas</td>
-<td class="left">Diseñar un experimento para medir y comprobar si aumenta o no la materia en una mezcla</td>
-</tr>
-
-
-<tr>
-<td class="right">2</td>
-<td class="left">Conservación de la materia en mezclas</td>
-<td class="left">Realización del experimento y contraste entre el diseño y el experimento</td>
-</tr>
-
-
-<tr>
-<td class="right">3</td>
-<td class="left">Mezclas homogéneas - soluto y sovente</td>
-<td class="left">Diseñar un experimento para medir y comprobar si aumenta o no la materia en una mezcla</td>
-</tr>
-
-
-<tr>
-<td class="right">4</td>
-<td class="left">Mezclas homogéneas - soluto y sovente</td>
-<td class="left">Realización del experimento y contraste entre el diseño y el experimento</td>
-</tr>
-
-
-<tr>
-<td class="right">5</td>
-<td class="left">Destilación y condensación</td>
-<td class="left">Análisis de experimentos de otros</td>
-</tr>
-
-
-<tr>
-<td class="right">6</td>
-<td class="left">Evaluación</td>
-<td class="left">¿Qué aprendieron? ¿Qué habría que cambiar?</td>
-</tr>
-</tbody>
-</table>
-
-## Secuencias<a id="sec-1-5"></a>
-
-## Conservación de materia en mezclas<a id="sec-1-6"></a>
+# Conservación de materia en mezclas<a id="sec-1"></a>
 
 -   **Semana 1 y 2**
 
@@ -193,9 +74,9 @@ En sexto grado se avanza con el estudio de las interacciones de los materiales e
 2.  Realización del experimento: Harán el experimento y completado de tabla de con los resultados. Finalmente cada grupo expondrá los resultados a la clase.
 3.  Formulación de la explicitación teórica: Finalmente se discutirá la respuesta a la pregunta.
 
-## Modelo de guía de trabajo de laboratorio<a id="sec-1-7"></a>
+# Modelo de guía de trabajo de laboratorio<a id="sec-2"></a>
 
-## Guía de trabajo en el laboratorio<a id="sec-1-8"></a>
+# Guía de trabajo en el laboratorio<a id="sec-3"></a>
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -243,7 +124,7 @@ En sexto grado se avanza con el estudio de las interacciones de los materiales e
 </tbody>
 </table>
 
-## Nuestra hipótesis (respuesta) y nuestras predicciones<a id="sec-1-9"></a>
+# Nuestra hipótesis (respuesta) y nuestras predicciones<a id="sec-4"></a>
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -267,7 +148,7 @@ En sexto grado se avanza con el estudio de las interacciones de los materiales e
 </tbody>
 </table>
 
-## Mi diseño experimental para poner la hipótesis a prueba:<a id="sec-1-10"></a>
+# Mi diseño experimental para poner la hipótesis a prueba:<a id="sec-5"></a>
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -367,11 +248,11 @@ En sexto grado se avanza con el estudio de las interacciones de los materiales e
 </tbody>
 </table>
 
-### Evaluación:<a id="sec-1-10-1"></a>
+## Evaluación:<a id="sec-5-1"></a>
 
 Incluida en la guía de trabajo en el laboratorio.
 
-## Bibliografía - Sitiografía:<a id="sec-1-11"></a>
+# Bibliografía - Sitiografía:<a id="sec-6"></a>
 
 -   [Furman, M. (2007). Haciendo ciencia en la escuela primaria: Mucho más que recetas de cocina. Revista 12ntes, 15, 2-3.](<http://www.ebicentenario.org.ar/documentos/mat_ciencia/Furman_Haciendo_Ciencias_en_la_Escuela_Primaria.pdf>)
 -   [Gellon, G. (2008b). Los experimentos en la escuela: La visión de un científico en el aula. Revista 12ntes, 24, 13-14.](<http://www.ebicentenario.org.ar/documentos/mat_ciencia/Gellon_G_(2008b)>.pdf)
